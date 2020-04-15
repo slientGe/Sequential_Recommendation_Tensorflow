@@ -9,7 +9,7 @@ So far, we have implemented these models, covering deep learning and traditional
 
 | model   | paper    | methods|
 | ------ | ------ | ------ | 
-| AttRec | Next Item Recommendation with Self-Attention   |  self-attention and MF|
+| AttRec | Next Item Recommendation with Self-Attention   |  self-attention |
 | Caser |  Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding  |  CNN     |     
 | GRU4Rec | Session-based Recommendations with Recurrent Neural Networks   |  GRU     |   
 | FPMC | Factorizing Personalized Markov Chains for Next-Basket Recommendation  |  MF+MC    |    
